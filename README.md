@@ -8,7 +8,7 @@ For example:
 
 If you are using Steam, the path is more likely as follows: 
 
-```"C:\Program Files (x86)\Steam\steamapps\common\Homeworld\Homeworld2Classic\data\EnhancedOptions.big"``` 
+```C:\Program Files (x86)\Steam\steamapps\common\Homeworld\Homeworld2Classic\data\EnhancedOptions.big``` 
 
 
 Then, duplicate your desktop shortcut, right click the new shortcut and add the following to "Target" box:
